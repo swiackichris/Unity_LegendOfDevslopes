@@ -1,11 +1,5 @@
-# Unity_LegendOfDevslopes
+# [Wave Destroyer]()
 
-A simple 3D game I have made through a course found at: https://www.udemy.com/devslopes-unity3d/learn/v4/
-It has basic mechanics such as:
+![](https://i.imgur.com/GgwVyrS.jpg)
 
-- Simple AI
-- Projectiles
-- Animations/Sounds
-- Mob Respawn
-- Power Ups
-- Levels
+Wave Destroyer is a 3D third person game I have made through a course found at: https://www.udemy.com/devslopes-unity3d/learn/v4/
